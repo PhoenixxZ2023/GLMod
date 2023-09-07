@@ -1,4 +1,4 @@
-url="https://github.com/MEGA/GLmod"
+url="https://github.com/PhoenixxZ2023/GLMod"
 
 cd ~
 

@@ -8,7 +8,7 @@ VERSION = __version__
 DESCRIPTION = open('README.md').read()
 AUTHOR = __author__
 AUTHOR_EMAIL = __email__
-URL = 'https://github.com/ScottBrabo/GLmod'
+URL = 'https://github.com/PhoenixxZ2023/GLMod'
 LICENSE = 'MIT'
 
 setup(name='CheckerUser',

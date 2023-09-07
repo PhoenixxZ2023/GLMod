@@ -15,7 +15,7 @@ checkuser --create-service --config-port 5000 --start
 
 ### Ou
 ```
-curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/GLMod/main/install.sh > install.sh; chmod a+x install.sh; ./install.sh
+curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/GLMod/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
 ```
  *Opcao 1*
 
